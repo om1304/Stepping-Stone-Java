@@ -29,7 +29,7 @@ A Java-based GUI application for solving transportation problems using the Vogel
 
 ### Running the Application
 
-1. **Save the code:** Save the provided Python code as `transportation_solver.java`.
+1. **Save the code:** Save the provided Java code as `transportation_solver.java`.
 
 
 
